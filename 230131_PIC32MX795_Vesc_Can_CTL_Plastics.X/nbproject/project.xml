@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>com.microchip.mplab.nbide.embedded.makeproject</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/make-project/1">
+            <name>230210_PIC32MX795_Vesc_Can_CTL_Plastics</name>
+            <name>221230_PIC32MX795_Vesc_Can_Test</name>
+            <name>221228_PIC32MX795_Vesc_Can_Test</name>
+            <name>221203_PIC32MX795_Vesc_Can_Test</name>
+            <name>221115_PIC32MX795_Vesc_Can_Test</name>
+            <name>221103_PIC32MX795_Vesc_Can_Test</name>
+            <name>221101_PIC32MX795_Vesc_Can_Test</name>
+            <name>221029_PIC32MX795_Vesc_Can_Test</name>
+            <name>221028_PIC32MX795_Vesc_Can_Test</name>
+            <name>221027_PIC32MX795_Vesc_Can_Test</name>
+            <name>221026_PIC32MX795_Vesc_Can_Test</name>
+            <name>221025_PIC32MX795_Vesc_Can_Test</name>
+            <name>PIC32MX795_Vesc_Can_Test</name>
+            <creation-uuid>e54023e9-3948-44ef-bf6f-29d8b223e555</creation-uuid>
+            <make-project-type>0</make-project-type>
+            <c-extensions>c</c-extensions>
+            <cpp-extensions/>
+            <header-extensions>h</header-extensions>
+            <asminc-extensions/>
+            <sourceEncoding>ISO-8859-1</sourceEncoding>
+            <make-dep-projects/>
+            <sourceRootList>
+                <sourceRootElem>../src</sourceRootElem>
+                <sourceRootElem/>
+            </sourceRootList>
+            <confList>
+                <confElem>
+                    <name>default</name>
+                    <type>2</type>
+                </confElem>
+            </confList>
+            <formatting>
+                <project-formatting-style>false</project-formatting-style>
+            </formatting>
+        </data>
+    </configuration>
+</project>
